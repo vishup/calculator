@@ -1,0 +1,14 @@
+MUL=1
+DIV=2
+ADD=3
+SUB=4
+LPAREN=5
+RPAREN=6
+INTEGER=7
+WS=8
+'*'=1
+'/'=2
+'+'=3
+'-'=4
+'('=5
+')'=6
